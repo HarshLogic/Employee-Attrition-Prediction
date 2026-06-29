@@ -82,8 +82,3 @@ The project generates five core visualization assets saved locally as PNGs:
 ⚠️ **A Note on Model Limitations:** This model flags *statistical correlations*, not definite human *causation*. It cannot capture deeply personal external factors (e.g., family relocations, unrecorded team dynamics, or sudden competitive market offers). It should always be used as an **early-warning support tool** to prompt human-led, supportive outreach—never as a tool for automated employee management.
 
 ---
-
-## 🛠️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/hr-attrition-prediction.git](https://github.com/yourusername/hr-attrition-prediction.git)
